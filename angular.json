@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "scully-blog-test"
+  "defaultProject": "scully-blog-test",
+  "cli": {
+    "analytics": "3140da62-908d-4517-8da0-84783131ca3b"
+  }
 }
