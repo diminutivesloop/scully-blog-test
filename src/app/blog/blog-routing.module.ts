@@ -5,6 +5,10 @@ import {BlogComponent} from './blog.component';
 
 const routes: Routes = [
   {
+    path: '',
+    component: BlogComponent,
+  },
+  {
     path: ':slug',
     component: BlogComponent,
   },
